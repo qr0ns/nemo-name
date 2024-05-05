@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: cover;
+}
